@@ -1,2 +1,1 @@
-console.log("hellloe");
-console.log("bro what");
+console.log("sill baba")

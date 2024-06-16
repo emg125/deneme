@@ -4,4 +4,6 @@ div{
     width:500px;
     animation-duration: 5s;
     font-size:2rem;
+
+    line-height: 3px;
 }
